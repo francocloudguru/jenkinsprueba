@@ -1,0 +1,7 @@
+C:\wip\Az-400_git-practice\Buildapp\buildapp\buildapp\obj\Release\net6.0\PubTmp\Out\buildapp.exe
+C:\wip\Az-400_git-practice\Buildapp\buildapp\buildapp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\wip\Az-400_git-practice\Buildapp\buildapp\buildapp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\wip\Az-400_git-practice\Buildapp\buildapp\buildapp\obj\Release\net6.0\PubTmp\Out\buildapp.dll
+C:\wip\Az-400_git-practice\Buildapp\buildapp\buildapp\obj\Release\net6.0\PubTmp\Out\buildapp.deps.json
+C:\wip\Az-400_git-practice\Buildapp\buildapp\buildapp\obj\Release\net6.0\PubTmp\Out\buildapp.runtimeconfig.json
+C:\wip\Az-400_git-practice\Buildapp\buildapp\buildapp\obj\Release\net6.0\PubTmp\Out\buildapp.pdb
